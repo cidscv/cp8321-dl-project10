@@ -61,6 +61,7 @@ Implement selective prediction: only accept model predictions above a confidence
 5. [Uncertainty-Aware Deep Learning Models for Prostate Cancer Grading,
    Zhou et al., 2021](https://papers.miccai.org/miccai-2024/811-Paper2652.html)
 6. [Efficient Self-Supervised Grading of Prostate Cancer Pathology, Bhattacharyya, Pal Das & Mitra, 2025](https://arxiv.org/abs/2501.15520)
+7. [Adam: A Method for Stochastic Optimization, Kingma & Ba, 2015](https://arxiv.org/abs/1412.6980)
 
 ## Groups Members
 
