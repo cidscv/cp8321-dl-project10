@@ -1,6 +1,8 @@
 *.pyc
 __pycache__
 .venv/
-dataset/
+SICAPv2_Dataset/
 *.keras
 *.csv
+*.zip
+organized_dataset/
