@@ -6,3 +6,4 @@ SICAPv2_Dataset/
 *.csv
 *.zip
 organized_dataset/
+.DS_Store
