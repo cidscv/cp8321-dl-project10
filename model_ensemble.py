@@ -4,9 +4,9 @@ from sklearn.metrics import log_loss, brier_score_loss
 
 # Define evaluation function
 def evaluate(name, prob):
-  print()
-  print()
-  print()
+  print(f"\n===={name}====")
+  print("Log Loss: ", log_loss(y_true, probs))
+  print("ECE: ", ECE_multi(y_true, probs))
  
 # Evaluate models 
 evaluate("Base", y_pred_proba)
